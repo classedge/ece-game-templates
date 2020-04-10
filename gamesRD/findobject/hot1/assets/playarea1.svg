@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 768">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>playarea1</title>
+  <g id="bg">
+    <image id="image" width="1024" height="768" xlink:href="assets/playarea1.png"/>
+    <!-- <image id="image2" width="1024" height="768" xlink:href="./shape1.svg"/> -->
+  </g>
+  <g id="map">
+    <g id="correct">
+      <g id="c1">
+        <circle class="cls-1" cx="285.5" cy="239.5" r="53.5"/>
+      </g>
+      <g id="c2">
+        <circle class="cls-1" cx="750.5" cy="239.5" r="53.5"/>
+      </g>
+      <g id="c3">
+        <circle class="cls-1" cx="285.5" cy="359.5" r="53.5"/>
+      </g>
+      <g id="c4">
+        <circle class="cls-1" cx="417" cy="260" r="29"/>
+      </g>
+      <g id="c5">
+        <circle class="cls-1" cx="507" cy="260" r="29"/>
+      </g>
+      <g id="c6">
+        <circle class="cls-1" cx="595" cy="260" r="29"/>
+      </g>
+    </g>
+    <g id="incorrect">
+      <g id="i1">
+        <polygon class="cls-1" points="750 79 662 166.713 663 176 837 176 839 166.713 750 79"/>
+      </g>
+    </g>
+  </g>
+</svg>

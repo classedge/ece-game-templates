@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<!-- To run the current sample code in your own environment, copy this to an html page. -->
+
+<html>
+
+<head>
+    <script src="../../libs/jquery.min.js"></script>
+    <!-- <base href="//www.jsviews.com/samples/jsrender/composition/remote-tmpl/" /> -->
+    <script src="../../libs/jsviews.min.js"></script>
+
+    <!-- <link href="test.css" rel="stylesheet"> -->
+
+</head>
+
+<body>
+
+    <!-- <button id="show1">Show People1</button>
+    <button id="show2">Show People2</button>
+    <div id="items">items</div> -->
+    <div id="page">page</div>
+    <!-- <div class="container">
+        <div id="peopleList">ddd </div>
+    </div> -->
+
+    <!-- <a onclick="return processAjax(this.href)" href="templates/sample.html">CLICK ME</a> -->
+    <div id="containerDiv"></div>
+
+
+    <script>
+        function processAjax(url) {
+            if (window.XMLHttpRequest) { // Non-IE browsers 
+                req = new XMLHttpRequest();
+                req.onreadystatechange = targetDiv;
+                try {
+                    req.open("GET", url, true);
+                } catch (e) {
+                    alert(e);
+                }
+                req.send(null);
+            } else if (window.ActiveXObject) { // IE 
+                req = new ActiveXObject("Microsoft.XMLHTTP");
+                if (req) {
+                    req.onreadystatechange = targetDiv;
+                    req.open("GET", url, true);
+                    req.send();
+
+                }
+            }
+            return false;
+        }
+
+        function targetDiv() {
+            if (req.readyState == 4) { // Complete 
+                if (req.status == 200) { // OK response 
+                    // document.getElementById("containerDiv").innerHTML = req.responseText;
+
+                    // var div = document.createElement('div');
+                    var div = document.getElementById("containerDiv");
+                    div.innerHTML = req.responseText;
+                    var styles = div.getElementsByTagName('style');
+                    console.log('​targetDiv -> styles', styles);
+                    var scripts = div.getElementsByTagName('scripts');
+                    console.log('​targetDiv -> scripts', scripts);
+                    for (var x = 0; x < styles.length; x++) {
+                        document.getElementsByTagName('head')[0].appendChild(styles[x]);
+                    }
+
+                } else {
+                    alert("Problem: " + req.statusText);
+                }
+            }
+        }
+
+        function getdata() {
+            var xmlhttp;
+            xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("get", "templates/sample.html", false);
+            xmlhttp.send();
+            // document.getElementById("page").innerHTML = xmlhttp.responseText;
+            $("#page").html(xmlhttp.responseText)
+
+        }
+        getdata()
+    </script>
+
+</body>
+
+</html>

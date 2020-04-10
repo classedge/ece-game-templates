@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="&apos;Dialog&apos;" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'BALLOON' (U+1F388)-->
+  <defs id="genericDefs" />
+  <g>
+    <g>
+      <path d="M196.4531 243.5625 Q196.4531 280.4062 175.0781 308.5312 Q152.5781 338.2031 117 342.8438 L125.0156 368.5781 L90.8438 368.5781 L96.4688 351.2812 Q88.875 359.4375 77.4844 378 Q65.5312 397.6875 58.7812 405.4219 Q46.9688 419.0625 32.4844 424.125 L29.8125 416.1094 Q42.75 411.3281 54.7031 396.8438 Q60.3281 389.9531 74.25 368.1562 Q85.9219 349.7344 94.2188 341.8594 Q60.4688 334.9688 39.7969 306.2812 Q20.25 278.8594 20.25 243.5625 Q20.25 204.4688 44.4375 175.0781 Q70.1719 143.8594 108.4219 143.8594 Q146.6719 143.8594 172.4062 175.0781 Q196.4531 204.4688 196.4531 243.5625 ZM188.0156 243.5625 Q188.0156 207.9844 166.3594 181.125 Q143.1562 152.2969 108.4219 152.2969 Q73.5469 152.2969 50.4844 180.9844 Q28.8281 207.8438 28.8281 243.5625 Q28.8281 278.8594 50.625 305.8594 Q73.8281 334.8281 108.2812 334.8281 Q143.4375 334.8281 166.5 306.2812 Q188.0156 279.5625 188.0156 243.5625 ZM113.4844 360.1406 L108.1406 342.9844 L102.7969 360.1406 L113.4844 360.1406 Z" stroke="none" />
+    </g>
+  </g>
+</svg>

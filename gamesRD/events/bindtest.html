@@ -1,0 +1,83 @@
+<html>
+<!-- bindtest -->
+
+<head>
+    <style>
+        #container {
+            background-color: aqua;
+        }
+    </style>
+    <script src="./../../libs/jquery.min.js"></script>
+    <script>
+        (function ($) {
+            $.extend($.fn, {
+                myplugin: function (reee) {
+                    console.log('​reee', reee);
+                    // your plugin logic
+                }
+            });
+        })(jQuery);
+
+        $.plugin = function (name, object) {
+            $.fn[name] = function (options) {
+                return this.each(function () {
+                    if (!$.data(this, name)) {
+                        $.data(this, name, Object.create(object).init(
+                            options, this));
+                    }
+                });
+            };
+        };
+
+        $(document).ready(function () {
+            $("p").click(function () {
+                alert("The paragraph was clicked.");
+            });
+
+            stateManager.fly();
+            $.plugin("myobj", "myObject");
+        });
+
+
+        var stateManager = {
+
+            fly: function () {
+                console.log('​fly');
+
+                var self = this;
+
+                $("#container")
+                    .unbind()
+                    .on("click", "div.toggle", function (e) {
+                        console.log('​e', e);
+                        self.handleClick(e.target);
+                    });
+            },
+
+            handleClick: function (elem) {
+                console.log('​elem', elem);
+                $(elem).find("span").toggle("slow");
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <p>Click on this paragraph.</p>
+    <div id="container">
+        dddd
+        <div class="toggle" href="#">More Info (Address)
+            <span class="info">
+                This is more information
+            </span>
+        </div>
+        <div class="toggle" href="#">Even More Info (Map)
+            <span class="info">
+                <iframe src="http://www.map-generator.net/extmap.php?name=London&amp;address=london%2C%20england&amp;width=500...gt;" </iframe>
+            </span>
+        </div>
+    </div>
+
+</body>
+
+</html>

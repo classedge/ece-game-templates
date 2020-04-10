@@ -1,0 +1,34 @@
+
+
+@font-face {
+    font-family: 'vagrounded_btregular';
+    src: url('../../../../../assets/fonts/vag_rounded_bt-webfont.eot');
+    src: url('../../../../../assets/fonts/vag_rounded_bt-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../../../assets/fonts/vag_rounded_bt-webfont.woff') format('woff'),
+    url('../../../../../assets/fonts/vag_rounded_bt-webfont.ttf') format('truetype'),
+    url('../../../../../assets/fonts/vag_rounded_bt-webfont.svg#vagrounded_btregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'grandstander';
+    src: url('../../../../../assets/fonts/grandstander-clean-webfont.eot');
+    src: url('../../../../../assets/fonts/grandstander-clean-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../../../assets/fonts/grandstander-clean-webfont.woff') format('woff'),
+    url('../../../../../assets/fonts/grandstander-clean-webfont.ttf') format('truetype'),
+    url('../../../../../assets/fonts/grandstander-clean-webfont.svg#grandstander') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'printbold';
+    src: url('../../../../../assets/fonts/printbold_tt-webfont.eot');
+    src: url('../../../../../assets/fonts/printbold_tt-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../../../../assets/fonts/printbold_tt-webfont.woff') format('woff'),
+    url('../../../../../assets/fonts/printbold_tt-webfont.ttf') format('truetype'),
+    url('../../../../../assets/fonts/printbold_tt-webfont.svg#printbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

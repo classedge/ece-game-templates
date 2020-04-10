@@ -1,0 +1,66 @@
+<html>
+<!-- handlebars test
+http://tryhandlebarsjs.com/
+-->
+
+<head>
+    <style>
+        .container,
+        .content {
+            background-color: aqua;
+        }
+    </style>
+    <script src="./../../libs/handlebars-v4.0.11.js"></script>
+    <script src="./../../libs/jquery.min.js"></script>
+
+    <script id="entry-template" type="text/x-handlebars-template">
+        <div class="entry">
+            <h1>{{title}}</h1>
+            <div class="body">
+                {{body}}
+            </div>
+        </div>
+    </script>
+    <script>
+        $(document).ready(function () {
+            console.log('​result', result);
+            // $("#mycontent").replaceWith(result)
+            $("#mycontent").html(result)
+        });
+
+
+        var source = document.getElementById("entry-template").innerHTML;
+        // console.log('​source', source);
+        var template = Handlebars.compile(source);
+        // console.log('​Handlebars', Handlebars);
+        // console.log('​template', template);
+        var result = template({
+            "title": "ppp",
+            "body": "ttttt ooooo"
+        })
+        console.log('​result', result);
+        var handler = {
+            get: function (obj, prop) {
+                return prop in obj ? obj[prop] : 37;
+            }
+        };
+
+        var p = new Proxy({}, handler);
+        p.a = 1;
+        p.b = undefined;
+
+        console.log(p.a, p.b); // 1, undefined
+        console.log('c' in p, p.c); // false, 37
+        console.log('​p', p);
+        console.log('​p.c', p.c);
+    </script>
+</head>
+
+<body>
+    <div id="mycontent" class="content">
+        content
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<!-- To run the current sample code in your own environment, copy this to an html page. -->
+
+<html>
+
+<head>
+    <script src="../../libs/jquery.min.js"></script>
+    <script src="../../libs/jsviews.min.js"></script>
+
+
+
+    <script>
+        $(document).ready(function () {
+            console.log('​ready');
+            tmpl.link("#result", person);
+
+            $(person).on("propertyChange", changeHandler);
+
+            $(person.address).on("propertyChange", changeHandler);
+        });
+
+
+        var person = {
+            name: "Pete",
+            address: {
+                street: "1st Ave"
+            }
+        };
+        $("#modify").on("click", function () {
+            $.observable(person).setProperty({
+                name: "Hermione",
+                "address.street": "Main St"
+            });
+        });
+
+        $("#revert").on("click", function () {
+            $.observable(person).setProperty({
+                name: "Pete",
+                "address.street": "1st Ave."
+            });
+        });
+
+        $(".clear").on("click", function () {
+            $(".messages").empty();
+        });
+
+        var tmpl = $.templates(
+            "Name: <input data-link=\"name\" /><br/>" +
+            "Street: <input data-link=\"address.street\" />"
+        );
+
+        function changeHandler(ev, eventArgs) {
+            var message = "The new '" + eventArgs.path + "' is '" + eventArgs.value + "'.";
+            $(".messages").append("<div>" + message + "</div>");
+        }
+    </script>
+
+
+</head>
+
+<body>
+
+
+
+
+
+    <div class="left">
+        <button id="modify">set to new values</button>
+        <br/>
+        <button id="revert">set back to original values</button>
+        <div id="result"></div>
+    </div>
+
+    <div class="logBox">
+        <label>Change Log:</label>
+        <button class="clear">Clear</button>
+        <div class="messages"></div>
+    </div>
+</body>
+
+</html>

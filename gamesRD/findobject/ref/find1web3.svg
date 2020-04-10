@@ -1,0 +1,24 @@
+<svg id="nature" 
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 768 497">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>find1web3</title>
+  <g id="map">
+    <g id="bg">
+      <image width="768" height="497" xlink:href="nature1.svg"/>
+    </g>
+    <g id="zone-c1">
+      <ellipse class="cls-2" cx="42.5" cy="409" rx="40.5" ry="37"/>
+    </g>
+  </g>
+</svg>

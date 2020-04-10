@@ -1,0 +1,233 @@
+.repository {
+  display: none;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #ffffff url('../img/geometry2.png'); /* Background pattern from Subtle Patterns */
+    font-family: 'Coda', cursive;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+h2 {
+  font-weight: 300;
+  text-align: center;
+  margin: 0;
+}
+
+/*
+ * Styles for the deck of cards
+ */
+
+.deck {
+    width: 660px;
+    background: linear-gradient(160deg, #02ccba 0%, #aa7ecd 100%);
+    padding: 32px;
+    border-radius: 10px;
+    box-shadow: 12px 15px 20px 0 rgba(46, 61, 73, 0.5);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 3em;
+}
+
+.deck .card {
+    height: 125px;
+    width: 125px;
+    background: #da543b;
+    font-size: 0;
+    color: #ffffff;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 2px 20px 0 rgba(46, 61, 73, 0.5);
+}
+
+.deck .card.open {
+    transform: rotateY(0);
+    background: #02b3e4;
+    cursor: default;
+}
+
+.deck .card.show {
+    font-size: 33px;
+}
+
+.deck .card.match {
+    cursor: default;
+    background: #02ccba;
+    font-size: 33px;
+}
+
+
+/*
+ * Styles for the Score Panel
+ */
+
+.score-panel {
+    text-align: left;
+    width: 345px;
+    margin-bottom: 10px;
+}
+
+.score-panel .stars {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin: 0 5px 0 0;
+}
+
+.score-panel .stars li {
+    list-style: none;
+    display: inline-block;
+}
+
+.score-panel .restart {
+    float: right;
+    cursor: pointer;
+}
+
+/*
+ * Styles for the timer
+ */
+
+#timer {
+  width: 150px;
+  height: 30px;
+  font-weight: 500;
+}
+
+/*
+ * Styles for the popover that appears on completion --
+ * adapted from the w3schools tutorial "How TO - CSS/JS Modal":
+ * https://www.w3schools.com/howto/howto_css_modals.asp
+ */
+
+#completion-popover {
+  display: none;
+  position: absolute;
+  z-index: 40;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  z-index: 200;
+}
+
+.popover-content {
+   background-color: #778899;
+   background-color: rgba(0, 0, 0, 0.9);
+   border-radius: 8px;
+   color: #f4f4f4;
+   margin: 10% auto;
+   padding: 1em;
+   border: 0.5px solid black;
+   width: 80%;
+   max-width: 55em;
+}
+
+#you-did-it-text,
+#num-moves-text,
+#time-elapsed-text,
+#star-level-text {
+  margin: 5% auto;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+#play-again-text {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  padding-bottom: 30px;
+}
+
+#play-again-text > button {
+  margin: 0 0 0 13px;
+  padding: 0;
+  cursor: pointer;
+  font-family: 'Arial';
+  color: #2f4f4f;
+  font-size: 14px;
+  font-weight: bold;
+  height: 24px;
+}
+
+.popover-close {
+  float: right;
+  font-size: 2.5em;
+  color: #fffff1;
+  margin: 0;
+  padding: 0;
+}
+
+.popover-close:hover,
+.popover-close:focus {
+  color: #778899;
+  cursor: pointer;
+}
+
+/*
+ * Responsive Styles
+ */
+
+@media only screen and (max-width: 700px) {
+
+  #deck-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .deck {
+    min-height: 92%;
+    width: 92%;
+  }
+
+  .deck .card {
+    width: 22%;
+    height: 22% !important;
+  }
+
+  .score-panel {
+    width: 85% !important;
+ }
+
+}

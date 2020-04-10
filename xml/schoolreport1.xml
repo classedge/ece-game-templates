@@ -1,0 +1,2306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schoolConsole>
+    <schoolMetadata>
+        <school name="Navodaya English High School and Junior College Thane II" terminalsCR="0" terminalsER="0" numOfSync="0" startTime="07:00" endTime="18:30" activeDays=" Monday, Tuesday, Wednesday, Thursday, Friday, Saturday,"/>
+    </schoolMetadata>
+    <usersConsole>
+        <userConsole>
+            <userId>e0f5a557-9a46-433e-bb8a-261b94858805@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 07:24:50.0</startTime>
+            <endTime>2018-07-17 08:02:01.0</endTime>
+            <duration>37.183334</duration>
+            <terminalIP>192.168.0.212</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>D6C2C9EF-BFE6-4BF2-BF6C-D67D79C96066</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>c8e2d58f-aace-40be-8045-f9cb10903130@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 07:36:24.0</startTime>
+            <endTime>2018-07-17 08:08:01.0</endTime>
+            <duration>31.616667</duration>
+            <terminalIP>192.168.0.213</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>46847C85-8574-4532-87D3-4B9F5DBFD711</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>c8e2d58f-aace-40be-8045-f9cb10903130@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 07:48:29.0</startTime>
+            <endTime>2018-07-17 08:41:02.0</endTime>
+            <duration>52.55</duration>
+            <terminalIP>192.168.0.215</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>BFDE4A6F-54B3-4E95-A3C7-0EF5A82799BF</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>E7FDB944-7077-41A3-864D-F5C005DDA570</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>759156BB-3EBD-4F54-A1B7-BDD9AE96E126</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>91e1cb8b-231f-4495-9bb6-874396037fdc@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 08:00:23.0</startTime>
+            <endTime>2018-07-17 08:34:02.0</endTime>
+            <duration>33.65</duration>
+            <terminalIP>192.168.0.216</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HI7EBC8DA4-CDB1-4798-BAB6-2E52CC5902_hi</userConsoleResource>
+                <userConsoleResource>HI7A95F0E8-CB6A-4D64-8BA2-97638DF852_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>HI321B0369-7E47-4884-AEC5-E712830148_hi</userConsoleResource>
+                <userConsoleResource>HI7A95F0E8-CB6A-4D64-8BA2-97638DF852_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>0ad60007-dcac-4bad-91cf-1c308082b20e@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 08:01:07.0</startTime>
+            <endTime>2018-07-17 08:44:02.0</endTime>
+            <duration>42.916668</duration>
+            <terminalIP>192.168.0.214</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>46847C85-8574-4532-87D3-4B9F5DBFD711</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>0E77B919-6D16-43D0-9D2D-E2E3C68C4D21</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>E303C069-4F7E-48F2-8DC7-07FDFC99E6A7</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>91e1cb8b-231f-4495-9bb6-874396037fdc@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 08:20:24.0</startTime>
+            <endTime>2018-07-17 09:21:02.0</endTime>
+            <duration>60.633335</duration>
+            <terminalIP>192.168.0.214</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HI7A95F0E8-CB6A-4D64-8BA2-97638DF852_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>HI321B0369-7E47-4884-AEC5-E712830148_hi</userConsoleResource>
+                <userConsoleResource>HI321B0369-7E47-4884-AEC5-E712830148_hi</userConsoleResource>
+                <userConsoleResource>HID6585897-BA6F-4968-8282-21982B8C1D_hi</userConsoleResource>
+                <userConsoleResource>HID7C008BB-CCC0-4FF8-90D7-2E0C0CCD24_hi</userConsoleResource>
+                <userConsoleResource>HI7662DC7A-1C4F-4D03-BD86-7C991E8E19_hi</userConsoleResource>
+                <userConsoleResource>HI94602C56-92B2-4545-AFB2-6E37F40CC9_hi</userConsoleResource>
+                <userConsoleResource>HIDC01F42A-09D8-475B-9CC4-5C29380264_hi</userConsoleResource>
+                <userConsoleResource>HI6AEEB65B-F7AE-4B5C-8BEA-FCE73AE218_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>HI6AEEB65B-F7AE-4B5C-8BEA-FCE73AE218_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>HI6AEEB65B-F7AE-4B5C-8BEA-FCE73AE218_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>754ad5c1-10a4-4874-a263-b5d9cbb2e56d@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 08:55:53.0</startTime>
+            <endTime>2018-07-17 09:53:03.0</endTime>
+            <duration>57.166668</duration>
+            <terminalIP>192.168.0.217</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>casset-7907f70b-0d3e-4d9f-8428-020ad6a58064-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-6d591080-9fca-4054-8cc8-39713b7581ad-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-a4565b87-5d27-40b3-9bbb-df0c37f366d0-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-6d591080-9fca-4054-8cc8-39713b7581ad-naenhircanju</userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>e0f5a557-9a46-433e-bb8a-261b94858805@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 09:13:54.0</startTime>
+            <endTime>2018-07-17 09:45:03.0</endTime>
+            <duration>31.15</duration>
+            <terminalIP>192.168.0.216</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>891342EA-51AD-431D-83B7-02C54BEAAF5C</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>891342EA-51AD-431D-83B7-02C54BEAAF5C</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>e0f5a557-9a46-433e-bb8a-261b94858805@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 09:15:45.0</startTime>
+            <endTime>2018-07-17 09:47:03.0</endTime>
+            <duration>31.3</duration>
+            <terminalIP>192.168.0.216</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>891342EA-51AD-431D-83B7-02C54BEAAF5C</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>fba877b8-8209-4f1a-bb91-553492c54812@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 09:30:20.0</startTime>
+            <endTime>2018-07-17 10:04:03.0</endTime>
+            <duration>33.716667</duration>
+            <terminalIP>192.168.0.211</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HI7EBC8DA4-CDB1-4798-BAB6-2E52CC5902_hi</userConsoleResource>
+                <userConsoleResource>HI7A95F0E8-CB6A-4D64-8BA2-97638DF852_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>754ad5c1-10a4-4874-a263-b5d9cbb2e56d@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 10:17:38.0</startTime>
+            <endTime>2018-07-17 10:48:03.0</endTime>
+            <duration>30.416666</duration>
+            <terminalIP>192.168.0.213</terminalIP>
+            <userConsoleResources/>
+        </userConsole>
+        <userConsole>
+            <userId>c8e2d58f-aace-40be-8045-f9cb10903130@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 10:19:57.0</startTime>
+            <endTime>2018-07-17 11:14:04.0</endTime>
+            <duration>54.116665</duration>
+            <terminalIP>192.168.0.218</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>BFDE4A6F-54B3-4E95-A3C7-0EF5A82799BF</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>E7FDB944-7077-41A3-864D-F5C005DDA570</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>759156BB-3EBD-4F54-A1B7-BDD9AE96E126</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>675a41d4-4e9c-479a-8d5d-d516f78bc35e@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 10:24:43.0</startTime>
+            <endTime>2018-07-17 11:13:04.0</endTime>
+            <duration>48.35</duration>
+            <terminalIP>192.168.0.214</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>19DB68F8-6FD8-4F0D-AE90-EA9919A68288</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>19DB68F8-6FD8-4F0D-AE90-EA9919A68288</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>1AF46EB5-0621-4C09-9A38-93D71DCB7AB5</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>c7386bb8-a514-4562-84c6-8d1cb64fb501@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 10:30:40.0</startTime>
+            <endTime>2018-07-17 10:50:56.0</endTime>
+            <duration>20.266666</duration>
+            <terminalIP>192.168.0.217</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>B7DC4659-A560-41B1-8D2E-4BF19B2110B5</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>E9CBD8F0-34D0-4DAF-895C-CB1842233527</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>42A1485B-2518-480C-AD9F-6B33612421A0</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>F1D9C220-9A65-418F-A64F-C3A87EB3329B</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>6A7C66A1-7FD7-4C7E-A19D-651D335293B4</userConsoleResource>
+                <userConsoleResource>8bdfc7b4-535d-4007-a0e1-4d4046720140</userConsoleResource>
+                <userConsoleResource>bb0e4ad9-3924-4144-8c8e-24ed38dd738b</userConsoleResource>
+                <userConsoleResource>A0BB2624-4D08-4967-B0EA-DA16CC87ED60</userConsoleResource>
+                <userConsoleResource>513F51C3-9DD9-4681-9FDE-0850892190CD</userConsoleResource>
+                <userConsoleResource>F74EABD0-ADAC-4FEB-AED3-E341B18D588F</userConsoleResource>
+                <userConsoleResource>35062530-EF40-46EC-9C31-C06936AFCDD6</userConsoleResource>
+                <userConsoleResource>B2A73B51-8A13-4A76-9374-786DDF578DC3</userConsoleResource>
+                <userConsoleResource>9A53187F-8015-4B7D-BD99-E89E42A6CEEA</userConsoleResource>
+                <userConsoleResource>99FC75E9-3AE8-459F-AF0F-4B53119B477F</userConsoleResource>
+                <userConsoleResource>84e83b6d-b962-4d24-afeb-b62157d3225e</userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>fba877b8-8209-4f1a-bb91-553492c54812@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 10:52:37.0</startTime>
+            <endTime>2018-07-17 11:25:04.0</endTime>
+            <duration>32.45</duration>
+            <terminalIP>192.168.0.213</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HI7EBC8DA4-CDB1-4798-BAB6-2E52CC5902_hi</userConsoleResource>
+                <userConsoleResource>HI7A95F0E8-CB6A-4D64-8BA2-97638DF852_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>41f44da5-87db-4f84-8737-b7bf2c41ae3a@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 10:53:37.0</startTime>
+            <endTime>2018-07-17 11:43:04.0</endTime>
+            <duration>49.45</duration>
+            <terminalIP>192.168.0.217</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>891342EA-51AD-431D-83B7-02C54BEAAF5C</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>776A0452-A25C-4F2B-8390-9889F9588B6B</userConsoleResource>
+                <userConsoleResource>776A0452-A25C-4F2B-8390-9889F9588B6B</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>059400f7-fd0c-4075-b9d2-0a83bfa4b63a</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>971ee735-0b22-4b10-9f0d-baeb7eb206d8</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>45F61A21-8F76-4046-949F-A3D650260D9A</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>3700ec1e-cee4-44d3-9813-78c2a77a316e</userConsoleResource>
+                <userConsoleResource>449AD00D-B743-4DF7-8FBC-A98219637386</userConsoleResource>
+                <userConsoleResource>45F61A21-8F76-4046-949F-A3D650260D9A</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>ed8453b1-5a1a-4f26-a40a-aa9c571953ab</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>968ab27b-0853-4daf-95d4-cbac0f1840ef</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>9643D0D5-22A3-430B-AB7D-477E0710F5A9</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>754ad5c1-10a4-4874-a263-b5d9cbb2e56d@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 10:57:43.0</startTime>
+            <endTime>2018-07-17 11:29:04.0</endTime>
+            <duration>31.35</duration>
+            <terminalIP>192.168.0.215</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>casset-6d591080-9fca-4054-8cc8-39713b7581ad-naenhircanju</userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>41f44da5-87db-4f84-8737-b7bf2c41ae3a@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 11:13:49.0</startTime>
+            <endTime>2018-07-17 11:52:04.0</endTime>
+            <duration>38.25</duration>
+            <terminalIP>192.168.0.217</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>9643D0D5-22A3-430B-AB7D-477E0710F5A9</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>c8e2d58f-aace-40be-8045-f9cb10903130@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 11:29:59.0</startTime>
+            <endTime>2018-07-17 12:01:05.0</endTime>
+            <duration>31.1</duration>
+            <terminalIP>192.168.0.214</terminalIP>
+            <userConsoleResources/>
+        </userConsole>
+        <userConsole>
+            <userId>fba877b8-8209-4f1a-bb91-553492c54812@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 11:38:30.0</startTime>
+            <endTime>2018-07-17 12:10:05.0</endTime>
+            <duration>31.583334</duration>
+            <terminalIP>192.168.0.211</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HI7A95F0E8-CB6A-4D64-8BA2-97638DF852_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>HI321B0369-7E47-4884-AEC5-E712830148_hi</userConsoleResource>
+                <userConsoleResource>HI7A95F0E8-CB6A-4D64-8BA2-97638DF852_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>91e1cb8b-231f-4495-9bb6-874396037fdc@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 11:58:04.0</startTime>
+            <endTime>2018-07-17 12:14:14.0</endTime>
+            <duration>16.166666</duration>
+            <terminalIP>192.168.0.214</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HI6AEEB65B-F7AE-4B5C-8BEA-FCE73AE218_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>0606a4b2-ae1a-4da0-9923-678f13a0f75e@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 11:59:37.0</startTime>
+            <endTime>2018-07-17 12:51:05.0</endTime>
+            <duration>51.466667</duration>
+            <terminalIP>192.168.0.216</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>casset-e8e34194-2c17-48a4-afe5-417606c4aaba-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-e8e34194-2c17-48a4-afe5-417606c4aaba-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-ff7b26da-365d-4df5-89c4-bb2f33baa08f-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-4af8d331-5b6a-4bef-996c-7cea5fd254dd-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-bf43947a-08cb-4733-8408-6d58a6060efb-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-568d7101-a9fc-409e-b04b-6d77753aee12-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-a44e255f-0eaf-4534-b812-df545655897e-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-796eb556-09bb-49ba-ba54-6582e7fbc881-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-75d20923-acd1-4da0-9dce-f6af8cb2685f-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-375b91fa-880d-496f-aefe-3b84cc77ae98-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-2d39adc6-95ec-45c2-a9bd-3c158311ba04-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-375b91fa-880d-496f-aefe-3b84cc77ae98-naenhircanju</userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>41f44da5-87db-4f84-8737-b7bf2c41ae3a@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 12:01:27.0</startTime>
+            <endTime>2018-07-17 12:51:05.0</endTime>
+            <duration>49.633335</duration>
+            <terminalIP>192.168.0.215</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>891342EA-51AD-431D-83B7-02C54BEAAF5C</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>059400f7-fd0c-4075-b9d2-0a83bfa4b63a</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>91e1cb8b-231f-4495-9bb6-874396037fdc@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 12:14:37.0</startTime>
+            <endTime>2018-07-17 12:57:05.0</endTime>
+            <duration>42.466667</duration>
+            <terminalIP>192.168.0.214</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HIA5664021-72E8-429A-A86E-9EEE507614_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>HI01DFE5EA-AB1E-4872-855A-BEA6D2370F_hi</userConsoleResource>
+                <userConsoleResource>HI1D6447A8-00E4-4A8E-A429-1A220A8279_hi</userConsoleResource>
+                <userConsoleResource>HIE53AD197-C308-4B35-95E7-EB3DB71522_hi</userConsoleResource>
+                <userConsoleResource>HI12862B1D-FEF0-4DB6-BAA2-8F02663C0E_hi</userConsoleResource>
+                <userConsoleResource>HI3C2E5DB3-43EB-40C4-83E1-6489C6293B_hi</userConsoleResource>
+                <userConsoleResource>HIAAAD86B9-C1C4-42E3-B83A-B4837D7A1B_hi</userConsoleResource>
+                <userConsoleResource>HIAAAD86B9-C1C4-42E3-B83A-B4837D7A1B_hi</userConsoleResource>
+                <userConsoleResource>HI1AAE795A-066B-4C97-AF4F-0FE33DC7D4_hi</userConsoleResource>
+                <userConsoleResource>HI5DEBDDBC-51BD-405F-B799-AC3E47E4EE_hi</userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>0606a4b2-ae1a-4da0-9923-678f13a0f75e@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 12:21:11.0</startTime>
+            <endTime>2018-07-17 12:56:05.0</endTime>
+            <duration>34.9</duration>
+            <terminalIP>192.168.0.216</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>casset-ff7b26da-365d-4df5-89c4-bb2f33baa08f-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-4af8d331-5b6a-4bef-996c-7cea5fd254dd-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-bf43947a-08cb-4733-8408-6d58a6060efb-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-568d7101-a9fc-409e-b04b-6d77753aee12-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-a44e255f-0eaf-4534-b812-df545655897e-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-796eb556-09bb-49ba-ba54-6582e7fbc881-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-75d20923-acd1-4da0-9dce-f6af8cb2685f-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-375b91fa-880d-496f-aefe-3b84cc77ae98-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-2d39adc6-95ec-45c2-a9bd-3c158311ba04-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-375b91fa-880d-496f-aefe-3b84cc77ae98-naenhircanju</userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>41f44da5-87db-4f84-8737-b7bf2c41ae3a@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 12:46:58.0</startTime>
+            <endTime>2018-07-17 13:22:06.0</endTime>
+            <duration>35.133335</duration>
+            <terminalIP>192.168.0.211</terminalIP>
+            <userConsoleResources/>
+        </userConsole>
+        <userConsole>
+            <userId>d34244a5-daea-4862-9cce-a21db71c0d17@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 13:13:13.0</startTime>
+            <endTime>2018-07-17 13:44:06.0</endTime>
+            <duration>30.883333</duration>
+            <terminalIP>192.168.0.202</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>BE4A3501-579A-4BA5-B7C7-315C9B8ED17C</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>0656ea23-9f35-49df-a9cc-961a4483c83f@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 14:39:20.0</startTime>
+            <endTime>2018-07-17 15:25:07.0</endTime>
+            <duration>45.783333</duration>
+            <terminalIP>192.168.0.212</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>casset-fbab35e6-a6d3-4d7b-b563-ee8c4c09e177-naenhircanju</userConsoleResource>
+                <userConsoleResource>HI3F822856-18E4-4907-91DC-66EAD53D1E_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>0656ea23-9f35-49df-a9cc-961a4483c83f@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 14:55:31.0</startTime>
+            <endTime>2018-07-17 15:27:07.0</endTime>
+            <duration>31.6</duration>
+            <terminalIP>192.168.0.212</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HI3F822856-18E4-4907-91DC-66EAD53D1E_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>675a41d4-4e9c-479a-8d5d-d516f78bc35e@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 15:50:11.0</startTime>
+            <endTime>2018-07-17 16:20:22.0</endTime>
+            <duration>30.183332</duration>
+            <terminalIP>192.168.0.203</terminalIP>
+            <userConsoleResources/>
+        </userConsole>
+        <userConsole>
+            <userId>0656ea23-9f35-49df-a9cc-961a4483c83f@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 15:57:38.0</startTime>
+            <endTime>2018-07-17 16:39:08.0</endTime>
+            <duration>41.5</duration>
+            <terminalIP>192.168.0.217</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HI3F822856-18E4-4907-91DC-66EAD53D1E_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>HI7B60F348-A64F-4A15-A014-6135D514EE_hi</userConsoleResource>
+                <userConsoleResource>HI7B60F348-A64F-4A15-A014-6135D514EE_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>0656ea23-9f35-49df-a9cc-961a4483c83f@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 16:08:56.0</startTime>
+            <endTime>2018-07-17 16:40:08.0</endTime>
+            <duration>31.2</duration>
+            <terminalIP>192.168.0.217</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HI7B60F348-A64F-4A15-A014-6135D514EE_hi</userConsoleResource>
+                <userConsoleResource>HI7B60F348-A64F-4A15-A014-6135D514EE_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>540c67d3-8f83-4977-856c-d1aaf2ae916a@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 16:22:08.0</startTime>
+            <endTime>2018-07-17 16:23:07.0</endTime>
+            <duration>0.98333335</duration>
+            <terminalIP>192.168.0.203</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>casset-1a9891c1-91a5-4ddf-a9e8-95b7cd611683-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-2b001f3a-2519-4b71-b800-9f82dbb1f33a-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-0fb71cf3-8481-4234-8a64-ebf96aa9b972-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-432997f0-ad64-4e9b-be01-466c85705dcd-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-665b5ac8-5a5d-4775-b9bd-5fe146def196-naenhircanju</userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>d2f0dbee-0caa-41f4-a009-6ee53f044844@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 16:24:11.0</startTime>
+            <endTime>2018-07-17 16:54:13.0</endTime>
+            <duration>30.033333</duration>
+            <terminalIP>192.168.0.203</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>casset-2b001f3a-2519-4b71-b800-9f82dbb1f33a-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-0fb71cf3-8481-4234-8a64-ebf96aa9b972-naenhircanju</userConsoleResource>
+                <userConsoleResource>casset-1a9891c1-91a5-4ddf-a9e8-95b7cd611683-naenhircanju</userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>0656ea23-9f35-49df-a9cc-961a4483c83f@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 16:31:46.0</startTime>
+            <endTime>2018-07-17 17:10:08.0</endTime>
+            <duration>38.366665</duration>
+            <terminalIP>192.168.0.216</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HI3F822856-18E4-4907-91DC-66EAD53D1E_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>HI6E7555C4-FF8F-4EB6-B6D5-A42CFB200E_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>4519ffe9-1f76-4937-93e9-4592a4532323@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 17:17:35.0</startTime>
+            <endTime>2018-07-17 17:47:43.0</endTime>
+            <duration>30.133333</duration>
+            <terminalIP>192.168.0.203</terminalIP>
+            <userConsoleResources/>
+        </userConsole>
+        <userConsole>
+            <userId>0656ea23-9f35-49df-a9cc-961a4483c83f@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 17:31:10.0</startTime>
+            <endTime>2018-07-17 18:03:09.0</endTime>
+            <duration>31.983334</duration>
+            <terminalIP>192.168.0.211</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>HI3F822856-18E4-4907-91DC-66EAD53D1E_hi</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>789bee79-2802-4c69-82cc-1c9021fc9d35@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 17:35:09.0</startTime>
+            <endTime>2018-07-17 17:53:33.0</endTime>
+            <duration>18.4</duration>
+            <terminalIP>192.168.0.216</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>7970AF33-361B-4A65-827E-CAFD2207DCE6</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>2A6D60D8-7887-4810-99D6-F1DB0CE35BDB</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+        <userConsole>
+            <userId>4519ffe9-1f76-4937-93e9-4592a4532323@naenhircanju.ce</userId>
+            <selectedDate>2018-07-17</selectedDate>
+            <startTime>2018-07-17 17:53:33.0</startTime>
+            <endTime>2018-07-17 18:33:23.0</endTime>
+            <duration>39.833332</duration>
+            <terminalIP>192.168.0.203</terminalIP>
+            <userConsoleResources>
+                <userConsoleResource>523E3CC8-FAC2-45CA-A00B-FB6D64914D29</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>6D2C14F5-FE73-42D5-91D6-C3049B674755</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>4417BA6F-47CF-4DC5-87EC-7E963F9FCD41</userConsoleResource>
+                <userConsoleResource></userConsoleResource>
+                <userConsoleResource>casset-763d9019-26ab-444c-99c6-12c247a2f09e-naenhircanju</userConsoleResource>
+            </userConsoleResources>
+        </userConsole>
+    </usersConsole>
+    <resourcesMetadata>
+        <resourceMetadata resourceId="2A6D60D8-7887-4810-99D6-F1DB0CE35BDB">
+            <title>First Aid for Different Situations</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-d65c846f-f1d9-43fb-bbf4-251ee34aff08">
+                <title>Class 10</title>
+            </grade>
+            <chapter id="chp-4dd50bf6-e437-4a5b-b22f-2510d5f52263">
+                <title>10.Disaster Management</title>
+            </chapter>
+            <teachingpoint id="tp-eabc193c-ccf8-427c-a799-fad671881fef">
+                <title>Safety and First Aid - Part 2</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="7970AF33-361B-4A65-827E-CAFD2207DCE6">
+            <title>Natural Disasters</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-d65c846f-f1d9-43fb-bbf4-251ee34aff08">
+                <title>Class 10</title>
+            </grade>
+            <chapter id="chp-4dd50bf6-e437-4a5b-b22f-2510d5f52263">
+                <title>10.Disaster Management</title>
+            </chapter>
+            <teachingpoint id="tp-711b60b7-476d-414e-b57b-63e07e0cdb01">
+                <title>Natural Disasters</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="523E3CC8-FAC2-45CA-A00B-FB6D64914D29">
+            <title>Internet Concept and Topics</title>
+            <subject id="sub-e8f077de-7d1a-494f-a3c0-dd6ec8c651a5">
+                <title>Computer Science</title>
+            </subject>
+            <grade id="schgrd-9b4cdd0c-8d1d-4a32-8dab-3953f186beaa">
+                <title>Class 4</title>
+            </grade>
+            <chapter id="chp-345ac5b3-a855-4b25-8dab-fbf70b67296d">
+                <title>Internet</title>
+            </chapter>
+            <teachingpoint id="tp-56e9e71d-2516-42cf-8d04-9208515e7f18">
+                <title>Internet</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="6D2C14F5-FE73-42D5-91D6-C3049B674755">
+            <title>Web Surfing and Netiquette</title>
+            <subject id="sub-e8f077de-7d1a-494f-a3c0-dd6ec8c651a5">
+                <title>Computer Science</title>
+            </subject>
+            <grade id="schgrd-9b4cdd0c-8d1d-4a32-8dab-3953f186beaa">
+                <title>Class 4</title>
+            </grade>
+            <chapter id="chp-345ac5b3-a855-4b25-8dab-fbf70b67296d">
+                <title>Internet</title>
+            </chapter>
+            <teachingpoint id="tp-1455e059-4aa2-4e7b-89fb-56aa0264ec0b">
+                <title>Web Surfing and Netiquette</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="2A6D60D8-7887-4810-99D6-F1DB0CE35BDB">
+            <title>First Aid for Different Situations</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-da1850a4-9abf-4cca-9f2d-cfc8299b93aa">
+                <title>Class 9</title>
+            </grade>
+            <chapter id="chp-c437b64b-cd43-4de1-8a6b-bc2313ae2e52">
+                <title>9.Envrionmental Management</title>
+            </chapter>
+            <teachingpoint id="tp-eabc193c-ccf8-427c-a799-fad671881fef">
+                <title>Safety and First Aid - Part 2</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="059400f7-fd0c-4075-b9d2-0a83bfa4b63a">
+            <title>Balanced Forces (3D)</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-da1850a4-9abf-4cca-9f2d-cfc8299b93aa">
+                <title>Class 9</title>
+            </grade>
+            <chapter id="chp-e6e22232-92c3-4350-9bcb-55017b1ccb56">
+                <title>1.Laws of Motion</title>
+            </chapter>
+            <teachingpoint id="tp-3b7cd21b-3bf4-4179-af59-3de5c9398f85">
+                <title>Balanced and Unbalanced Forces</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="776A0452-A25C-4F2B-8390-9889F9588B6B">
+            <title>Force and Motion: Basics Lab</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-da1850a4-9abf-4cca-9f2d-cfc8299b93aa">
+                <title>Class 9</title>
+            </grade>
+            <chapter id="chp-e6e22232-92c3-4350-9bcb-55017b1ccb56">
+                <title>1.Laws of Motion</title>
+            </chapter>
+            <teachingpoint id="tp-3b7cd21b-3bf4-4179-af59-3de5c9398f85">
+                <title>Balanced and Unbalanced Forces</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="891342EA-51AD-431D-83B7-02C54BEAAF5C">
+            <title>Balanced and Unbalanced Forces</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-da1850a4-9abf-4cca-9f2d-cfc8299b93aa">
+                <title>Class 9</title>
+            </grade>
+            <chapter id="chp-e6e22232-92c3-4350-9bcb-55017b1ccb56">
+                <title>1.Laws of Motion</title>
+            </chapter>
+            <teachingpoint id="tp-3b7cd21b-3bf4-4179-af59-3de5c9398f85">
+                <title>Balanced and Unbalanced Forces</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="971ee735-0b22-4b10-9f0d-baeb7eb206d8">
+            <title>Unbalanced Forces (3D)</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-da1850a4-9abf-4cca-9f2d-cfc8299b93aa">
+                <title>Class 9</title>
+            </grade>
+            <chapter id="chp-e6e22232-92c3-4350-9bcb-55017b1ccb56">
+                <title>1.Laws of Motion</title>
+            </chapter>
+            <teachingpoint id="tp-3b7cd21b-3bf4-4179-af59-3de5c9398f85">
+                <title>Balanced and Unbalanced Forces</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="D6C2C9EF-BFE6-4BF2-BF6C-D67D79C96066">
+            <title>Irrational Numbers on the Number Line</title>
+            <subject id="sub-99298d07-f103-4567-959a-b061c2302a82">
+                <title>Algebra</title>
+            </subject>
+            <grade id="schgrd-da1850a4-9abf-4cca-9f2d-cfc8299b93aa">
+                <title>Class 9</title>
+            </grade>
+            <chapter id="chp-8bf66bcb-877a-4e7d-bedc-8c463e4bdec2">
+                <title>2. Real Numbers</title>
+            </chapter>
+            <teachingpoint id="tp-d8b6dfdf-6fa5-49ab-bab6-083bf20823c2">
+                <title>Representation of Irrational Numbers on the Number Line</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="0E77B919-6D16-43D0-9D2D-E2E3C68C4D21">
+            <title>Anatomy of Earthquakes</title>
+            <subject id="sub-af6ba448-e9e1-4dd3-bc2e-772e1181b56e">
+                <title>Geography</title>
+            </subject>
+            <grade id="schgrd-da1850a4-9abf-4cca-9f2d-cfc8299b93aa">
+                <title>Class 9</title>
+            </grade>
+            <chapter id="chp-b9a5c503-85a1-467a-80ce-e08ea30e79f8">
+                <title>2. Endogenic Movements</title>
+            </chapter>
+            <teachingpoint id="tp-c3e5326b-d2be-42ab-b840-9822bde4438f">
+                <title>Anatomy of an Earthquake</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="46847C85-8574-4532-87D3-4B9F5DBFD711">
+            <title>What Causes Earthquakes?</title>
+            <subject id="sub-af6ba448-e9e1-4dd3-bc2e-772e1181b56e">
+                <title>Geography</title>
+            </subject>
+            <grade id="schgrd-da1850a4-9abf-4cca-9f2d-cfc8299b93aa">
+                <title>Class 9</title>
+            </grade>
+            <chapter id="chp-b9a5c503-85a1-467a-80ce-e08ea30e79f8">
+                <title>2. Endogenic Movements</title>
+            </chapter>
+            <teachingpoint id="tp-4fa2e856-b1e0-4aca-8f75-00d76cd53f1a">
+                <title>Causes of Earthquakes</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="E303C069-4F7E-48F2-8DC7-07FDFC99E6A7">
+            <title>Effects of Earthquakes</title>
+            <subject id="sub-af6ba448-e9e1-4dd3-bc2e-772e1181b56e">
+                <title>Geography</title>
+            </subject>
+            <grade id="schgrd-da1850a4-9abf-4cca-9f2d-cfc8299b93aa">
+                <title>Class 9</title>
+            </grade>
+            <chapter id="chp-b9a5c503-85a1-467a-80ce-e08ea30e79f8">
+                <title>2. Endogenic Movements</title>
+            </chapter>
+            <teachingpoint id="tp-ce306136-7339-4b8a-a5ec-b4fad5d4039b">
+                <title>Effects of an Earthquake</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="2A6D60D8-7887-4810-99D6-F1DB0CE35BDB">
+            <title>First Aid for Different Situations</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-421bd5ab-ac61-4820-b23f-ffb04e121830">
+                <title>Class 6</title>
+            </grade>
+            <chapter id="chp-cc43235a-a279-4170-8c19-63937079927d">
+                <title>4.Disaster Management</title>
+            </chapter>
+            <teachingpoint id="tp-eabc193c-ccf8-427c-a799-fad671881fef">
+                <title>Safety and First Aid - Part 2</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="7970AF33-361B-4A65-827E-CAFD2207DCE6">
+            <title>Natural Disasters</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-421bd5ab-ac61-4820-b23f-ffb04e121830">
+                <title>Class 6</title>
+            </grade>
+            <chapter id="chp-cc43235a-a279-4170-8c19-63937079927d">
+                <title>4.Disaster Management</title>
+            </chapter>
+            <teachingpoint id="tp-711b60b7-476d-414e-b57b-63e07e0cdb01">
+                <title>Natural Disasters</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="4417BA6F-47CF-4DC5-87EC-7E963F9FCD41">
+            <title>E-mail</title>
+            <subject id="sub-e8f077de-7d1a-494f-a3c0-dd6ec8c651a5">
+                <title>Computer Science</title>
+            </subject>
+            <grade id="schgrd-421bd5ab-ac61-4820-b23f-ffb04e121830">
+                <title>Class 6</title>
+            </grade>
+            <chapter id="chp-c2f492ec-8b30-4524-8af2-b8c487d4a377">
+                <title>Internet</title>
+            </chapter>
+            <teachingpoint id="tp-ad388f83-9326-4e78-8748-0d1617038bf7">
+                <title>Electronic Mail</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="BE4A3501-579A-4BA5-B7C7-315C9B8ED17C">
+            <title>Lecture note: Types of Solution</title>
+            <subject id="sub-16234be5-8402-4cb4-8ada-b63422f6ea1a">
+                <title>Chemistry</title>
+            </subject>
+            <grade id="schgrd-52073fb6-56ca-4ce8-851f-8ed0fd3e6901">
+                <title>Class 12</title>
+            </grade>
+            <chapter id="chp-97875f13-d6c3-49bd-a84a-1197a53bd128">
+                <title>2. Solution and Colligative properties</title>
+            </chapter>
+            <teachingpoint id="tp-55244a47-99c0-49b9-8607-675e60fcd39e">
+                <title>Types of Solutions and Expressing Concentrations</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="42A1485B-2518-480C-AD9F-6B33612421A0">
+            <title>The Reformation</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="6A7C66A1-7FD7-4C7E-A19D-651D335293B4">
+            <title>Renaissance and Reformation</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="759156BB-3EBD-4F54-A1B7-BDD9AE96E126">
+            <title>Decline Of The Sikh Empire</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-0633fab0-bfc3-4f19-8f01-d739a281613c">
+                <title>The Anglo—Sikh Wars</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="99FC75E9-3AE8-459F-AF0F-4B53119B477F">
+            <title>Colonial Economy and its Effects</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-e369b4be-31ba-4104-b923-5a343484842d">
+                <title>European Capitalism and Colonial Economy</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="B7DC4659-A560-41B1-8D2E-4BF19B2110B5">
+            <title>Impact of the Renaissance</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="BFDE4A6F-54B3-4E95-A3C7-0EF5A82799BF">
+            <title>Rise of British Power in Bengal</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-73f7f81c-61fe-4391-b7bb-8f3b096b0db3">
+                <title>Rise of British Power in Bengal</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="E7FDB944-7077-41A3-864D-F5C005DDA570">
+            <title>The Mysore Wars </title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-783fa6cc-1e20-41f1-89e9-5bea867d8f01">
+                <title>Subjugation of Mysore</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="E9CBD8F0-34D0-4DAF-895C-CB1842233527">
+            <title>Birth of the Renaissance</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="F1D9C220-9A65-418F-A64F-C3A87EB3329B">
+            <title>Impact of the Reformation</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="059400f7-fd0c-4075-b9d2-0a83bfa4b63a">
+            <title>Balanced Forces (3D)</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-704b3236-b208-4788-94ac-d599b5492299">
+                <title>3.Force and Pressure</title>
+            </chapter>
+            <teachingpoint id="tp-3b7cd21b-3bf4-4179-af59-3de5c9398f85">
+                <title>Balanced and Unbalanced Forces</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="45F61A21-8F76-4046-949F-A3D650260D9A">
+            <title>Handling Pressure</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-704b3236-b208-4788-94ac-d599b5492299">
+                <title>3.Force and Pressure</title>
+            </chapter>
+            <teachingpoint id="tp-e8e7c0d4-e95e-48dc-9c11-370334c2057b">
+                <title>Pressure</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="776A0452-A25C-4F2B-8390-9889F9588B6B">
+            <title>Force and Motion: Basics Lab</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-704b3236-b208-4788-94ac-d599b5492299">
+                <title>3.Force and Pressure</title>
+            </chapter>
+            <teachingpoint id="tp-3b7cd21b-3bf4-4179-af59-3de5c9398f85">
+                <title>Balanced and Unbalanced Forces</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="891342EA-51AD-431D-83B7-02C54BEAAF5C">
+            <title>Balanced and Unbalanced Forces</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-704b3236-b208-4788-94ac-d599b5492299">
+                <title>3.Force and Pressure</title>
+            </chapter>
+            <teachingpoint id="tp-3b7cd21b-3bf4-4179-af59-3de5c9398f85">
+                <title>Balanced and Unbalanced Forces</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="9643D0D5-22A3-430B-AB7D-477E0710F5A9">
+            <title>Weigh Me Right</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-704b3236-b208-4788-94ac-d599b5492299">
+                <title>3.Force and Pressure</title>
+            </chapter>
+            <teachingpoint id="tp-84886453-252b-4419-9202-f0c28fd01b94">
+                <title>Buoyancy, Archimedes Principle, Relative Density</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="968ab27b-0853-4daf-95d4-cbac0f1840ef">
+            <title>Pressure of Gases (3D)</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-704b3236-b208-4788-94ac-d599b5492299">
+                <title>3.Force and Pressure</title>
+            </chapter>
+            <teachingpoint id="tp-e8e7c0d4-e95e-48dc-9c11-370334c2057b">
+                <title>Pressure</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="971ee735-0b22-4b10-9f0d-baeb7eb206d8">
+            <title>Unbalanced Forces (3D)</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-704b3236-b208-4788-94ac-d599b5492299">
+                <title>3.Force and Pressure</title>
+            </chapter>
+            <teachingpoint id="tp-3b7cd21b-3bf4-4179-af59-3de5c9398f85">
+                <title>Balanced and Unbalanced Forces</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="ed8453b1-5a1a-4f26-a40a-aa9c571953ab">
+            <title>Pressure of Solids and Liquids (3D)</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-704b3236-b208-4788-94ac-d599b5492299">
+                <title>3.Force and Pressure</title>
+            </chapter>
+            <teachingpoint id="tp-e8e7c0d4-e95e-48dc-9c11-370334c2057b">
+                <title>Pressure</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="D6C2C9EF-BFE6-4BF2-BF6C-D67D79C96066">
+            <title>Irrational Numbers on the Number Line</title>
+            <subject id="sub-ae8fce9e-0bfc-4c9c-9562-9d5823788a6b">
+                <title>Mathematics</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-428ab453-3219-440a-b14f-2f12fc3f6e71">
+                <title>1. Rational and Irrational Numbers</title>
+            </chapter>
+            <teachingpoint id="tp-d8b6dfdf-6fa5-49ab-bab6-083bf20823c2">
+                <title>Representation of Irrational Numbers on the Number Line</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="7970AF33-361B-4A65-827E-CAFD2207DCE6">
+            <title>Natural Disasters</title>
+            <subject id="sub-d4e48d9c-07ba-4e20-9884-18267769843b">
+                <title>Environmental Science</title>
+            </subject>
+            <grade id="schgrd-92df3f53-b049-4bc1-8817-d6e9c3e96856">
+                <title>Class 5</title>
+            </grade>
+            <chapter id="chp-0fe56297-a752-48e7-9b65-1f4a4b73e427">
+                <title>16. Water</title>
+            </chapter>
+            <teachingpoint id="tp-711b60b7-476d-414e-b57b-63e07e0cdb01">
+                <title>Natural Disasters</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI7B60F348-A64F-4A15-A014-6135D514EE_hi">
+            <title>संज्ञा तथा संज्ञा के प्रकार (भाववाचक संज्ञा)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-223a64eb-db61-4b4e-bdd2-d03cb329daeb">
+                <title>Primary</title>
+            </grade>
+            <chapter id="chp-344558fe-684e-4273-bca2-5b9180962048">
+                <title>7. संज्ञा</title>
+            </chapter>
+            <teachingpoint id="tp-13cea989-7179-4c89-97f8-8bf7dce69872_hi">
+                <title>संज्ञा तथा संज्ञा के प्रकार (भाववाचक संज्ञा)</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="19DB68F8-6FD8-4F0D-AE90-EA9919A68288">
+            <title>Common, Proper and Collective Nouns</title>
+            <subject id="sub-b544faca-dbb4-4777-8396-c2124e80362b">
+                <title>English Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-d87540b8-a10b-4436-8c90-fc53b0297eab">
+                <title>1. Nouns</title>
+            </chapter>
+            <teachingpoint id="tp-d956563c-db6b-40f2-afef-db289d861e91">
+                <title>Common, Proper and Collective Nouns</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="1AF46EB5-0621-4C09-9A38-93D71DCB7AB5">
+            <title>Possessive Form of Nouns</title>
+            <subject id="sub-b544faca-dbb4-4777-8396-c2124e80362b">
+                <title>English Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-d87540b8-a10b-4436-8c90-fc53b0297eab">
+                <title>1. Nouns</title>
+            </chapter>
+            <teachingpoint id="tp-6b094866-a5b2-4552-a586-79961d88d7a3">
+                <title>Possessive Form of Nouns</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI3F822856-18E4-4907-91DC-66EAD53D1E_hi">
+            <title>संज्ञा तथा संज्ञा के प्रकार - 1 (व्यक्तिवाचक संज्ञा, जातिवाचक संज्ञा, भाववाचक संज्ञा)-</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-0bd060df-e2e5-4b22-8248-93d0dd0e343a">
+                <title>1. संज्ञा</title>
+            </chapter>
+            <teachingpoint id="tp-f8c703cb-4cd8-4737-bcec-00ec08f2c4aa_hi">
+                <title>संज्ञा तथा संज्ञा के प्रकार - 1 (व्यक्तिवाचक संज्ञा, जातिवाचक संज्ञा, भाववाचक संज्ञा)</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI6E7555C4-FF8F-4EB6-B6D5-A42CFB200E_hi">
+            <title>संज्ञा तथा संज्ञा के प्रकार - 2 (भाववाचक संज्ञा, समूहवाचक संज्ञा,द्रव्यवाचक संज्ञा)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-0bd060df-e2e5-4b22-8248-93d0dd0e343a">
+                <title>1. संज्ञा</title>
+            </chapter>
+            <teachingpoint id="tp-040513f2-f49b-4799-82b1-efc6d4e22428_hi">
+                <title>संज्ञा तथा संज्ञा के प्रकार - 2 (समूहवाचक संज्ञा, द्रव्यवाचक संज्ञा)</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI01DFE5EA-AB1E-4872-855A-BEA6D2370F_hi">
+            <title>संधि तथा इसके भेद - 3 (विसर्ग संधि) - Level 4 (WS1)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-627797ea-ca00-4789-9eb6-5a1a20e33c45_hi">
+                <title>संधि तथा इसके भेद - 3 (विसर्ग संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI12862B1D-FEF0-4DB6-BAA2-8F02663C0E_hi">
+            <title>संधि तथा इसके भेद - 3 (विसर्ग संधि) - Level 5 (WS2)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-627797ea-ca00-4789-9eb6-5a1a20e33c45_hi">
+                <title>संधि तथा इसके भेद - 3 (विसर्ग संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI1D6447A8-00E4-4A8E-A429-1A220A8279_hi">
+            <title>संधि तथा इसके भेद - 3 (विसर्ग संधि) - Level 4 (WS3)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-627797ea-ca00-4789-9eb6-5a1a20e33c45_hi">
+                <title>संधि तथा इसके भेद - 3 (विसर्ग संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI321B0369-7E47-4884-AEC5-E712830148_hi">
+            <title>संधि तथा इसके भेद - 1 (स्वर संधि) - Level 4 (WS1)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-c33ddb74-ba7a-46fc-88a5-a61cf67c7855_hi">
+                <title>संधि तथा इसके भेद - 1 (स्वर संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI3C2E5DB3-43EB-40C4-83E1-6489C6293B_hi">
+            <title>संधि तथा इसके भेद - 3 (विसर्ग संधि) - Level 5 (WS3)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-627797ea-ca00-4789-9eb6-5a1a20e33c45_hi">
+                <title>संधि तथा इसके भेद - 3 (विसर्ग संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI6AEEB65B-F7AE-4B5C-8BEA-FCE73AE218_hi">
+            <title>संधि तथा इसके भेद - 2 (व्यंजन संधि)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-50ea8162-af07-42d9-aa74-2e18298b7e6a_hi">
+                <title>संधि तथा इसके भेद - 2 (व्यंजन संधि)</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI7662DC7A-1C4F-4D03-BD86-7C991E8E19_hi">
+            <title>संधि तथा इसके भेद - 1 (स्वर संधि) - Level 5 (WS1)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-c33ddb74-ba7a-46fc-88a5-a61cf67c7855_hi">
+                <title>संधि तथा इसके भेद - 1 (स्वर संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI7A95F0E8-CB6A-4D64-8BA2-97638DF852_hi">
+            <title>संधि तथा इसके भेद - 1 (स्वर संधि)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-c33ddb74-ba7a-46fc-88a5-a61cf67c7855_hi">
+                <title>संधि तथा इसके भेद - 1 (स्वर संधि)</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI7EBC8DA4-CDB1-4798-BAB6-2E52CC5902_hi">
+            <title>संधि-विच्छेद - Level 5 (WS2)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-e917c1ca-7cd1-424c-bdd0-cfb0621db9b5_hi">
+                <title>संधि-विच्छेद</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI94602C56-92B2-4545-AFB2-6E37F40CC9_hi">
+            <title>संधि तथा इसके भेद - 1 (स्वर संधि) - Level 5 (WS2)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-c33ddb74-ba7a-46fc-88a5-a61cf67c7855_hi">
+                <title>संधि तथा इसके भेद - 1 (स्वर संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HIA5664021-72E8-429A-A86E-9EEE507614_hi">
+            <title>संधि तथा इसके भेद - 3 (विसर्ग संधि)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-627797ea-ca00-4789-9eb6-5a1a20e33c45_hi">
+                <title>संधि तथा इसके भेद - 3 (विसर्ग संधि)</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HIAAAD86B9-C1C4-42E3-B83A-B4837D7A1B_hi">
+            <title>संधि तथा इसके भेद - 3 (विसर्ग संधि) - Level 5 (WS1)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-627797ea-ca00-4789-9eb6-5a1a20e33c45_hi">
+                <title>संधि तथा इसके भेद - 3 (विसर्ग संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HID6585897-BA6F-4968-8282-21982B8C1D_hi">
+            <title>संधि तथा इसके भेद - 1 (स्वर संधि) - Level 4 (WS2)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-c33ddb74-ba7a-46fc-88a5-a61cf67c7855_hi">
+                <title>संधि तथा इसके भेद - 1 (स्वर संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HID7C008BB-CCC0-4FF8-90D7-2E0C0CCD24_hi">
+            <title>संधि तथा इसके भेद - 1 (स्वर संधि) - Level 4 (WS3)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-c33ddb74-ba7a-46fc-88a5-a61cf67c7855_hi">
+                <title>संधि तथा इसके भेद - 1 (स्वर संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HIDC01F42A-09D8-475B-9CC4-5C29380264_hi">
+            <title>संधि तथा इसके भेद - 1 (स्वर संधि) - Level 5 (WS3)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-c33ddb74-ba7a-46fc-88a5-a61cf67c7855_hi">
+                <title>संधि तथा इसके भेद - 1 (स्वर संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HIE53AD197-C308-4B35-95E7-EB3DB71522_hi">
+            <title>संधि तथा इसके भेद - 3 (विसर्ग संधि) - Level 4 (WS2)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-1d4652c5-0aed-42ec-b808-abf46fec57da">
+                <title>16. संधि</title>
+            </chapter>
+            <teachingpoint id="tp-627797ea-ca00-4789-9eb6-5a1a20e33c45_hi">
+                <title>संधि तथा इसके भेद - 3 (विसर्ग संधि)</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI1AAE795A-066B-4C97-AF4F-0FE33DC7D4_hi">
+            <title>कारक व कारक के चिह्न- Level 4 (WS2)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-e0bd8f89-7eda-48d1-b6dd-d04be26591cc">
+                <title>24. कारक</title>
+            </chapter>
+            <teachingpoint id="tp-b72c29a3-9021-4c84-9be9-52c962ee9841_hi">
+                <title>कारक व कारक के चिह्न</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="HI5DEBDDBC-51BD-405F-B799-AC3E47E4EE_hi">
+            <title>कारक के प्रथम चार प्रकार- Level 5 (WS3)</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-ce42c259-f78c-45dc-aaa3-fd2449cc3059">
+                <title>Secondary</title>
+            </grade>
+            <chapter id="chp-e0bd8f89-7eda-48d1-b6dd-d04be26591cc">
+                <title>24. कारक</title>
+            </chapter>
+            <teachingpoint id="tp-366b33fb-1598-47df-a0ac-ddca6bb256ec_hi">
+                <title>कारक के प्रथम चार प्रकार</title>
+            </teachingpoint>
+            <type>asset_print</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-2d39adc6-95ec-45c2-a9bd-3c158311ba04-naenhircanju">
+            <title>xc</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-2eff947d-5e1f-4460-8a9a-71dc9fc45964">
+                <title>Class 1</title>
+            </grade>
+            <chapter id="cchp-e563ce25-d4d7-4641-821d-e345c6ab9c49-naenhircanju">
+                <title>still life</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-375b91fa-880d-496f-aefe-3b84cc77ae98-naenhircanju">
+            <title>xcv</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-2eff947d-5e1f-4460-8a9a-71dc9fc45964">
+                <title>Class 1</title>
+            </grade>
+            <chapter id="cchp-e563ce25-d4d7-4641-821d-e345c6ab9c49-naenhircanju">
+                <title>still life</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-4af8d331-5b6a-4bef-996c-7cea5fd254dd-naenhircanju">
+            <title>dvd</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-2eff947d-5e1f-4460-8a9a-71dc9fc45964">
+                <title>Class 1</title>
+            </grade>
+            <chapter id="cchp-e563ce25-d4d7-4641-821d-e345c6ab9c49-naenhircanju">
+                <title>still life</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-568d7101-a9fc-409e-b04b-6d77753aee12-naenhircanju">
+            <title>sdd</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-2eff947d-5e1f-4460-8a9a-71dc9fc45964">
+                <title>Class 1</title>
+            </grade>
+            <chapter id="cchp-e563ce25-d4d7-4641-821d-e345c6ab9c49-naenhircanju">
+                <title>still life</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-75d20923-acd1-4da0-9dce-f6af8cb2685f-naenhircanju">
+            <title>xcxc</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-2eff947d-5e1f-4460-8a9a-71dc9fc45964">
+                <title>Class 1</title>
+            </grade>
+            <chapter id="cchp-e563ce25-d4d7-4641-821d-e345c6ab9c49-naenhircanju">
+                <title>still life</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-796eb556-09bb-49ba-ba54-6582e7fbc881-naenhircanju">
+            <title>zxc</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-2eff947d-5e1f-4460-8a9a-71dc9fc45964">
+                <title>Class 1</title>
+            </grade>
+            <chapter id="cchp-e563ce25-d4d7-4641-821d-e345c6ab9c49-naenhircanju">
+                <title>still life</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-a44e255f-0eaf-4534-b812-df545655897e-naenhircanju">
+            <title>xzc</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-2eff947d-5e1f-4460-8a9a-71dc9fc45964">
+                <title>Class 1</title>
+            </grade>
+            <chapter id="cchp-e563ce25-d4d7-4641-821d-e345c6ab9c49-naenhircanju">
+                <title>still life</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-bf43947a-08cb-4733-8408-6d58a6060efb-naenhircanju">
+            <title>dfvfd</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-2eff947d-5e1f-4460-8a9a-71dc9fc45964">
+                <title>Class 1</title>
+            </grade>
+            <chapter id="cchp-e563ce25-d4d7-4641-821d-e345c6ab9c49-naenhircanju">
+                <title>still life</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-e8e34194-2c17-48a4-afe5-417606c4aaba-naenhircanju">
+            <title>memeory</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-2eff947d-5e1f-4460-8a9a-71dc9fc45964">
+                <title>Class 1</title>
+            </grade>
+            <chapter id="cchp-e5ea2240-e8d3-41fb-9dee-afaf3af1d4a1-naenhircanju">
+                <title>memeory drawing</title>
+            </chapter>
+            <teachingpoint id="ctp-76cd4e92-43f3-424f-b6e4-ed39d48bf076-naenhircanju">
+                <title>memeory drawing</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-ff7b26da-365d-4df5-89c4-bb2f33baa08f-naenhircanju">
+            <title>vfdv</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-2eff947d-5e1f-4460-8a9a-71dc9fc45964">
+                <title>Class 1</title>
+            </grade>
+            <chapter id="cchp-e563ce25-d4d7-4641-821d-e345c6ab9c49-naenhircanju">
+                <title>still life</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-6d591080-9fca-4054-8cc8-39713b7581ad-naenhircanju">
+            <title>adjective</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-421bd5ab-ac61-4820-b23f-ffb04e121830">
+                <title>Class 6</title>
+            </grade>
+            <chapter id="chp-b80290ac-e8ea-4c0e-ba81-22bd19000252">
+                <title>1. Gender</title>
+            </chapter>
+            <teachingpoint id="tp-2c57519d-ce09-4c8e-8adb-2acb7aa24843">
+                <title>Gender Equality: An Equal Balance</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-7907f70b-0d3e-4d9f-8428-020ad6a58064-naenhircanju">
+            <title>noun</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-421bd5ab-ac61-4820-b23f-ffb04e121830">
+                <title>Class 6</title>
+            </grade>
+            <chapter id="chp-b80290ac-e8ea-4c0e-ba81-22bd19000252">
+                <title>1. Gender</title>
+            </chapter>
+            <teachingpoint id="tp-2c57519d-ce09-4c8e-8adb-2acb7aa24843">
+                <title>Gender Equality: An Equal Balance</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-a4565b87-5d27-40b3-9bbb-df0c37f366d0-naenhircanju">
+            <title>verb</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-421bd5ab-ac61-4820-b23f-ffb04e121830">
+                <title>Class 6</title>
+            </grade>
+            <chapter id="chp-b80290ac-e8ea-4c0e-ba81-22bd19000252">
+                <title>1. Gender</title>
+            </chapter>
+            <teachingpoint id="tp-2c57519d-ce09-4c8e-8adb-2acb7aa24843">
+                <title>Gender Equality: An Equal Balance</title>
+            </teachingpoint>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-0fb71cf3-8481-4234-8a64-ebf96aa9b972-naenhircanju">
+            <title>letter</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="cchp-213c1bdc-666b-4eac-95dd-46afeee45506-naenhircanju">
+                <title>std tenth grammar</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-1a9891c1-91a5-4ddf-a9e8-95b7cd611683-naenhircanju">
+            <title>letter</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="cchp-213c1bdc-666b-4eac-95dd-46afeee45506-naenhircanju">
+                <title>std tenth grammar</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-2b001f3a-2519-4b71-b800-9f82dbb1f33a-naenhircanju">
+            <title>letter</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="cchp-213c1bdc-666b-4eac-95dd-46afeee45506-naenhircanju">
+                <title>std tenth grammar</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-432997f0-ad64-4e9b-be01-466c85705dcd-naenhircanju">
+            <title>leeter</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="cchp-213c1bdc-666b-4eac-95dd-46afeee45506-naenhircanju">
+                <title>std tenth grammar</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-665b5ac8-5a5d-4775-b9bd-5fe146def196-naenhircanju">
+            <title>letter</title>
+            <subject id="sub-5f08c7df-58e3-49b4-bc33-43d3a879d946">
+                <title>Value Education</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="cchp-213c1bdc-666b-4eac-95dd-46afeee45506-naenhircanju">
+                <title>std tenth grammar</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-763d9019-26ab-444c-99c6-12c247a2f09e-naenhircanju">
+            <title>EMAIL TOOLBAR IMAGE</title>
+            <subject id="sub-e8f077de-7d1a-494f-a3c0-dd6ec8c651a5">
+                <title>Computer Science</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-d9f34832-d832-4dba-b3ff-9f04de15c77a">
+                <title>MS Access</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="casset-fbab35e6-a6d3-4d7b-b563-ee8c4c09e177-naenhircanju">
+            <title>NOUN</title>
+            <subject id="sub-fa9b4e4a-d64d-47d0-bb74-2ba0c7723f9a">
+                <title>Hindi Grammar</title>
+            </subject>
+            <grade id="lev-223a64eb-db61-4b4e-bdd2-d03cb329daeb">
+                <title>Primary</title>
+            </grade>
+            <chapter id="chp-344558fe-684e-4273-bca2-5b9180962048">
+                <title>7. संज्ञा</title>
+            </chapter>
+            <teachingpoint id=""/>
+            <type>asset_media</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="84e83b6d-b962-4d24-afeb-b62157d3225e">
+            <title>Reinforcement\</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-e369b4be-31ba-4104-b923-5a343484842d">
+                <title>European Capitalism and Colonial Economy</title>
+            </teachingpoint>
+            <type>activity</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="8bdfc7b4-535d-4007-a0e1-4d4046720140">
+            <title>Reinforcement</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>activity</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="9A53187F-8015-4B7D-BD99-E89E42A6CEEA">
+            <title>My Days in Bengal</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-e369b4be-31ba-4104-b923-5a343484842d">
+                <title>European Capitalism and Colonial Economy</title>
+            </teachingpoint>
+            <type>activity</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="bb0e4ad9-3924-4144-8c8e-24ed38dd738b">
+            <title>Challenge</title>
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>activity</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="3700ec1e-cee4-44d3-9813-78c2a77a316e">
+            <title>Forces at play in our daily lives</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-704b3236-b208-4788-94ac-d599b5492299">
+                <title>3.Force and Pressure</title>
+            </chapter>
+            <teachingpoint id="tp-e8e7c0d4-e95e-48dc-9c11-370334c2057b">
+                <title>Pressure</title>
+            </teachingpoint>
+            <type>activity</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="449AD00D-B743-4DF7-8FBC-A98219637386">
+            <title>Liquid Exerts Pressure</title>
+            <subject id="sub-30160d4e-0ed9-48b6-9ab1-c733fbccfa07">
+                <title>Science</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-704b3236-b208-4788-94ac-d599b5492299">
+                <title>3.Force and Pressure</title>
+            </chapter>
+            <teachingpoint id="tp-e8e7c0d4-e95e-48dc-9c11-370334c2057b">
+                <title>Pressure</title>
+            </teachingpoint>
+            <type>activity</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="35062530-EF40-46EC-9C31-C06936AFCDD6">
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>question</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="513F51C3-9DD9-4681-9FDE-0850892190CD">
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>question</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="A0BB2624-4D08-4967-B0EA-DA16CC87ED60">
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>question</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="B2A73B51-8A13-4A76-9374-786DDF578DC3">
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>question</type>
+        </resourceMetadata>
+        <resourceMetadata resourceId="F74EABD0-ADAC-4FEB-AED3-E341B18D588F">
+            <subject id="sub-1a92d675-3730-4df5-a2eb-0ad64a159a93">
+                <title>History</title>
+            </subject>
+            <grade id="schgrd-9c0c57b0-bf99-4a51-8084-43ecdb3f60b1">
+                <title>Class 8</title>
+            </grade>
+            <chapter id="chp-9ae3d838-d886-4e1e-ab7f-0c3fd03e07bc">
+                <title>2. Europe and India</title>
+            </chapter>
+            <teachingpoint id="tp-d3983f6b-403a-4c99-994b-fcae81e59ca8">
+                <title>The Renaissance and the Reformation</title>
+            </teachingpoint>
+            <type>question</type>
+        </resourceMetadata>
+    </resourcesMetadata>
+    <usersMetadata>
+        <userMetadata userId="c6499006-f65b-4a9a-a007-38dc79b50f21@naenhircanju.ce">
+            <fullName>Ms. pratibha k</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="789bee79-2802-4c69-82cc-1c9021fc9d35@naenhircanju.ce">
+            <fullName>Ms. gayatri p</fullName>
+            <userSubjects>Mathematics,Science</userSubjects>
+        </userMetadata>
+        <userMetadata userId="0656ea23-9f35-49df-a9cc-961a4483c83f@naenhircanju.ce">
+            <fullName>Mrs. shilpee s</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="554333d3-f385-4b6e-9758-f2b8afc6118b@naenhircanju.ce">
+            <fullName>Mrs. RITIKA KAMATH</fullName>
+            <userSubjects>English,History,Geography</userSubjects>
+        </userMetadata>
+        <userMetadata userId="2532e9fd-3c69-41e4-a0f8-57f147d9a563@naenhircanju.ce">
+            <fullName>Mrs. Shailaja Ramesh</fullName>
+            <userSubjects>English,History,Geography</userSubjects>
+        </userMetadata>
+        <userMetadata userId="9088991c-8b02-41af-8b48-5e8cdf19efcf@naenhircanju.ce">
+            <fullName>Mr. smita s</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="7e4fa162-5714-4312-932e-cd4cddec5cc6@naenhircanju.ce">
+            <fullName>Mr. deepak c</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="3369f9c2-c98e-4cae-a51d-cd6dae8b87f8@naenhircanju.ce">
+            <fullName>Ms. computer trs</fullName>
+            <userSubjects>Computer Science</userSubjects>
+        </userMetadata>
+        <userMetadata userId="7aaa6540-7fb3-42ff-bc42-9e613e5fde7e@naenhircanju.ce">
+            <fullName>Mrs. sandhya k</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="0606a4b2-ae1a-4da0-9923-678f13a0f75e@naenhircanju.ce">
+            <fullName>Mrs. vasanti jamdade</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="04741c27-0a33-46bf-8ee1-c61aafb0de8e@naenhircanju.ce">
+            <fullName>Mrs. kundan trivedi</fullName>
+            <userSubjects>Hindi</userSubjects>
+        </userMetadata>
+        <userMetadata userId="540c67d3-8f83-4977-856c-d1aaf2ae916a@naenhircanju.ce">
+            <fullName>Mrs. manisha bagal</fullName>
+            <userSubjects>Hindi</userSubjects>
+        </userMetadata>
+        <userMetadata userId="91b4997f-479e-4792-a567-47d7704044b0@naenhircanju.ce">
+            <fullName>Ms. iris iris</fullName>
+            <userSubjects>Science</userSubjects>
+        </userMetadata>
+        <userMetadata userId="9dc19176-ff0b-4d93-9f56-f8a77d3fe6c6@naenhircanju.ce">
+            <fullName>Mrs. jasmin J</fullName>
+            <userSubjects>Mathematics,Science,Value Education</userSubjects>
+        </userMetadata>
+        <userMetadata userId="333726a8-c09c-4a52-be54-2cfd4d88e5fe@naenhircanju.ce">
+            <fullName>Mrs. aruna aruna</fullName>
+            <userSubjects>English,History,Geography,Value Education</userSubjects>
+        </userMetadata>
+        <userMetadata userId="56a4fdf7-7f18-4f91-abff-6106780babf7@naenhircanju.ce">
+            <fullName>Mrs. ketaki k</fullName>
+            <userSubjects>Mathematics,Science,Value Education</userSubjects>
+        </userMetadata>
+        <userMetadata userId="21ac9ce4-6466-4bba-b09f-2c9fa7e9ac3f@naenhircanju.ce">
+            <fullName>Ms. surekha verma</fullName>
+            <userSubjects>English,History,Geography,Value Education</userSubjects>
+        </userMetadata>
+        <userMetadata userId="c7386bb8-a514-4562-84c6-8d1cb64fb501@naenhircanju.ce">
+            <fullName>Ms. babamma koli</fullName>
+            <userSubjects>English,History</userSubjects>
+        </userMetadata>
+        <userMetadata userId="7ea5ef7a-b608-4ba4-963f-606a567efd27@naenhircanju.ce">
+            <fullName>Mrs. ambily prabhat</fullName>
+            <userSubjects>Science</userSubjects>
+        </userMetadata>
+        <userMetadata userId="fba877b8-8209-4f1a-bb91-553492c54812@naenhircanju.ce">
+            <fullName>Mrs. bharti ghude</fullName>
+            <userSubjects>Hindi</userSubjects>
+        </userMetadata>
+        <userMetadata userId="3cd077c4-2a53-4bfb-8a36-9dc8e371803d@naenhircanju.ce">
+            <fullName>Mrs. nandini panigrahi</fullName>
+            <userSubjects>Geometry,Science</userSubjects>
+        </userMetadata>
+        <userMetadata userId="e0f5a557-9a46-433e-bb8a-261b94858805@naenhircanju.ce">
+            <fullName>Mrs. prasanna menon</fullName>
+            <userSubjects>Algebra,Geometry,Science</userSubjects>
+        </userMetadata>
+        <userMetadata userId="c8e2d58f-aace-40be-8045-f9cb10903130@naenhircanju.ce">
+            <fullName>Mrs. padmashree bandal</fullName>
+            <userSubjects>History,Geography</userSubjects>
+        </userMetadata>
+        <userMetadata userId="2be8830b-5ab4-463d-8c38-6809fe1244fb@naenhircanju.ce">
+            <fullName>Mrs. shobha umbarkar</fullName>
+            <userSubjects>Science,Algebra,Mathematics</userSubjects>
+        </userMetadata>
+        <userMetadata userId="91e1cb8b-231f-4495-9bb6-874396037fdc@naenhircanju.ce">
+            <fullName>Mrs. ranjana mishra</fullName>
+            <userSubjects>Hindi</userSubjects>
+        </userMetadata>
+        <userMetadata userId="dd3fb95a-b2ab-4012-a211-9ac15e5935c6@naenhircanju.ce">
+            <fullName>Mrs. sherly sunu</fullName>
+            <userSubjects>Science,Mathematics</userSubjects>
+        </userMetadata>
+        <userMetadata userId="25e6b1d2-10f4-4d7a-a479-33a08f1002a1@naenhircanju.ce">
+            <fullName>Mrs. lijha joseph</fullName>
+            <userSubjects>English,English Grammar,Geography</userSubjects>
+        </userMetadata>
+        <userMetadata userId="754ad5c1-10a4-4874-a263-b5d9cbb2e56d@naenhircanju.ce">
+            <fullName>Mrs. pratiksha w</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="0ad60007-dcac-4bad-91cf-1c308082b20e@naenhircanju.ce">
+            <fullName>Mrs. christina mahadik</fullName>
+            <userSubjects>Geography</userSubjects>
+        </userMetadata>
+        <userMetadata userId="8adfa9c5-46fe-451a-acbe-92ef49a58613@naenhircanju.ce">
+            <fullName>Mrs. suyojita w</fullName>
+            <userSubjects>Algebra,Geometry,Mathematics</userSubjects>
+        </userMetadata>
+        <userMetadata userId="d2f0dbee-0caa-41f4-a009-6ee53f044844@naenhircanju.ce">
+            <fullName>Mrs. sandhya kasar</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="e6136da8-36c2-4b19-89d4-4f36f41e4d10@naenhircanju.ce">
+            <fullName>Mr. amrut pulekar</fullName>
+            <userSubjects>Hindi Grammar</userSubjects>
+        </userMetadata>
+        <userMetadata userId="41f44da5-87db-4f84-8737-b7bf2c41ae3a@naenhircanju.ce">
+            <fullName>Mrs. iris manaju</fullName>
+            <userSubjects>Science</userSubjects>
+        </userMetadata>
+        <userMetadata userId="21c3c6fb-4168-496b-8042-0040e0da7395@naenhircanju.ce">
+            <fullName>Mrs. rupali nalawade</fullName>
+            <userSubjects>Computer Science</userSubjects>
+        </userMetadata>
+        <userMetadata userId="4519ffe9-1f76-4937-93e9-4592a4532323@naenhircanju.ce">
+            <fullName>Mrs. swati s</fullName>
+            <userSubjects>Computer Science</userSubjects>
+        </userMetadata>
+        <userMetadata userId="d3429815-c904-45ee-a7bb-713daec5356d@naenhircanju.ce">
+            <fullName>Mrs. vasanti j</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="0ff9145a-6278-4142-a49f-4fbf85292276@naenhircanju.ce">
+            <fullName>Mrs. shrutika rane</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="c5a919f3-f09b-4d4a-9f5d-58ce5d257273@naenhircanju.ce">
+            <fullName>Mrs. siju james</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="b318926b-0e27-4ec0-8736-79911a9a3e7d@naenhircanju.ce">
+            <fullName>Mrs. krisha jethwa</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="8867f798-db7e-4054-bd0a-b8fdd2c78046@naenhircanju.ce">
+            <fullName>Mrs. ruchi kharat</fullName>
+            <userSubjects>Physics</userSubjects>
+        </userMetadata>
+        <userMetadata userId="9ffb1369-f766-4917-b1d6-9f111e93aab1@naenhircanju.ce">
+            <fullName>Mr. shriman narayan</fullName>
+            <userSubjects>Mathematics</userSubjects>
+        </userMetadata>
+        <userMetadata userId="d34244a5-daea-4862-9cce-a21db71c0d17@naenhircanju.ce">
+            <fullName>Mr. pratik fulare</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="5c59d107-84c5-44df-8b83-c4916055a5bd@naenhircanju.ce">
+            <fullName>Mrs. purnima De</fullName>
+            <userSubjects>English</userSubjects>
+        </userMetadata>
+        <userMetadata userId="83e06841-f9f3-4f60-b65b-6235bc16508b@naenhircanju.ce">
+            <fullName>Mrs. sangeeta choudhary</fullName>
+            <userSubjects>Hindi</userSubjects>
+        </userMetadata>
+        <userMetadata userId="cb506ccf-16c7-4590-ad17-9bf606f91764@naenhircanju.ce">
+            <fullName>Mrs. pratiksha waghmare</fullName>
+            <userSubjects></userSubjects>
+        </userMetadata>
+        <userMetadata userId="57894dfd-e42a-49fc-a48f-6563f9dc5b6d@naenhircanju.ce">
+            <fullName>Mrs. ambiliy prabhat</fullName>
+            <userSubjects>Biology</userSubjects>
+        </userMetadata>
+        <userMetadata userId="8e7d9d96-a74b-4835-a442-78131934a432@naenhircanju.ce">
+            <fullName>Mr. english teacher</fullName>
+            <userSubjects>English</userSubjects>
+        </userMetadata>
+        <userMetadata userId="675a41d4-4e9c-479a-8d5d-d516f78bc35e@naenhircanju.ce">
+            <fullName>Mr. delphine andrade</fullName>
+            <userSubjects>English,History</userSubjects>
+        </userMetadata>
+        <userMetadata userId="c527979f-154b-45af-b166-06cd7bd523ab@naenhircanju.ce">
+            <fullName>Mrs. jyothi sm</fullName>
+            <userSubjects>Computer Science</userSubjects>
+        </userMetadata>
+    </usersMetadata>
+    <schoolTerminals>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.200</terminalKey>
+            <terminalType>server</terminalType>
+            <location>2nd Floor Jr</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.201</terminalKey>
+            <terminalType>edge</terminalType>
+            <location>TT1 Staff Room</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.202</terminalKey>
+            <terminalType>edge</terminalType>
+            <location>TT2 Staff room </location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.203</terminalKey>
+            <terminalType>edge</terminalType>
+            <location>TT3 3rd Floor</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.204</terminalKey>
+            <terminalType>class</terminalType>
+            <location>Room No 1</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.205</terminalKey>
+            <terminalType>class</terminalType>
+            <location> Room No 2</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.206</terminalKey>
+            <terminalType>class</terminalType>
+            <location>Room No 3</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.207</terminalKey>
+            <terminalType>class</terminalType>
+            <location>Room No 4</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.208</terminalKey>
+            <terminalType>class</terminalType>
+            <location> Room No 5</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.209</terminalKey>
+            <terminalType>class</terminalType>
+            <location>Room No 6</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.210</terminalKey>
+            <terminalType>class</terminalType>
+            <location> Room No 7</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.211</terminalKey>
+            <terminalType>class</terminalType>
+            <location> Room No 1</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.212</terminalKey>
+            <terminalType>class</terminalType>
+            <location> Room No 2</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.213</terminalKey>
+            <terminalType>class</terminalType>
+            <location>Room No 3</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.214</terminalKey>
+            <terminalType>class</terminalType>
+            <location> Room No 4</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.215</terminalKey>
+            <terminalType>class</terminalType>
+            <location> Room No 5</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.216</terminalKey>
+            <terminalType>class</terminalType>
+            <location> Room No 6</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.217</terminalKey>
+            <terminalType>class</terminalType>
+            <location>Room No 7</location>
+        </schoolTerminal>
+        <schoolTerminal>
+            <schoolId>naenhircanju</schoolId>
+            <terminalKey>192.168.0.218</terminalKey>
+            <terminalType>class</terminalType>
+            <location>Room No 8</location>
+        </schoolTerminal>
+    </schoolTerminals>
+    <timestamp xsi:type="java:java.lang.String" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2018-07-25 12:03:34.235</timestamp>
+</schoolConsole>

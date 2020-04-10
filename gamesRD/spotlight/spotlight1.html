@@ -1,0 +1,137 @@
+<span class="spn">
+    <p>
+        <b>
+            <i>Spot light, search light</i>
+        </b>
+    </p>
+    <sup>
+        <p>Click mouse to reveal. Resize or reload to reactivate.</p>
+    </sup>
+</span>
+<br>
+
+<style>
+    body {
+        background-color: #bfc51e;
+        margin: 0px;
+        text-align: center;
+    }
+
+    sup {
+        font-size: 55%;
+    }
+
+    .spn {
+        display: inline-block;
+        position: relative;
+        margin: 10px;
+        padding: 4px;
+        width: 400px;
+        line-height: 18px;
+        user-select: none;
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+        cursor: default;
+        background-color: #ee0000;
+        border-radius: 5px;
+        font: 26px verdana;
+        color: #fff;
+        text-align: center;
+    }
+
+    p {
+        margin: 5px;
+    }
+</style>
+<script>
+    (function () {
+
+        /* Spotlight 2003 - kurt.grigg@yahoo.co.uk (updated) */
+
+        var spotlightsize = 200;
+
+        var h, w, s, c, ar;
+        var d = document;
+        var idx = d.getElementsByTagName('div').length;
+
+        c = d.createElement('div');
+        c.setAttribute('style', 'display:block;' +
+            'position:fixed;' +
+            'height:100%;width:100%;' +
+            'margin:auto;padding:0px;' +
+            'top:0;left:0;left:0;right:0;' +
+            'background-color:transparent;' +
+            'overflow:hidden;' +
+            'z-index:' + idx + ';');
+        d.body.appendChild(c);
+
+        s = d.createElement('div');
+        s.setAttribute('style', 'display:inline-block;' +
+            'position:absolute;top:0px;left:0px;' +
+            'height:' + spotlightsize + 'px;' +
+            'width:' + spotlightsize + 'px;' +
+            'margin:0px;padding:0px;' +
+            'border-radius:50%;' +
+            'border:solid 0px #000;' +
+            'background-image: radial-gradient(ellipse closest-side at center, transparent 85%, #000000 100%);' +
+            'box-shadow: inset 0px 0px 2px 2px #000000, inset 0px 0px ' +
+            spotlightsize / 6 + 'px ' + spotlightsize / 12 + 'px #000000;' +
+            'cursor:pointer;z-index:' + idx + '+1;');
+        c.appendChild(s);
+
+        function getBiggest(h, w) {
+            return Math.max(Math.max(h, w) * 1.3) | 0;
+        }
+
+        function windims() {
+            h = window.innerHeight;
+            w = window.innerWidth;
+            ar = getBiggest(h, w);
+            s.style.borderWidth = ar + 'px';
+            s.style.top = -(ar) + 'px';
+            s.style.left = -(ar) + 'px';
+        }
+
+        function mouseControl(needed) {
+            if (needed) {
+                d.addEventListener('mousemove', mouse, false);
+            } else {
+                d.removeEventListener('mousemove', mouse, false);
+            }
+        }
+
+        function mouse(e) {
+            if (!e) e = window.event;
+            var y = e.pageY - window.pageYOffset;
+            var x = e.pageX - window.pageXOffset;
+            s.style.top = y - ((spotlightsize / 2) + ar) + 'px';
+            s.style.left = x - ((spotlightsize / 2) + ar) + 'px';
+            s.style.backgroundColor = 'transparent';
+        }
+
+        function init() {;
+            windims();
+            mouseControl(true);
+            c.style.zIndex++;
+        }
+
+        function rfrsh() {
+            windims();
+            c.style.visibility = 'visible';
+            s.style.visibility = 'visible';
+            s.style.backgroundColor = '#000';
+            mouseControl(true);
+        }
+
+        function rvl() {
+            mouseControl(false);
+            c.style.visibility = 'hidden';
+            s.style.visibility = 'hidden';
+        }
+
+        window.addEventListener('load', init, false);
+        window.addEventListener('resize', rfrsh, false);
+        s.addEventListener('click', rvl, false);
+    })();
+</script>

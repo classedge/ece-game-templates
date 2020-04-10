@@ -1,0 +1,139 @@
+<!-- balloon
+https://codepen.io/vanwars/pen/zKBYPZ?page=11
+ -->
+<script src="../../../libs/paper-core.min.js"></script>
+
+<canvas id="myCanvas"></canvas>
+<style>
+    #myCanvas {
+        width: 100%;
+        height: 100%;
+        background-color: lightblue;
+    }
+
+    html,
+    body {
+        margin: 0;
+        overflow: hidden;
+        height: 100%;
+    }
+
+    /* Scale canvas with resize attribute to full size */
+
+    canvas[resize] {
+        width: 100%;
+        height: 100%;
+    }
+</style>
+<script>
+    paper.install(window);
+    paper.setup('myCanvas');
+    var canvasHeight = view.size.height;
+    var canvasWidth = view.size.width;
+    var colors = ['yellow', 'teal', 'hotpink'];
+    var balloons = [];
+    var numBalloons = 12;
+    /*--------------------------------------*/
+    var random = function (min, max) {
+        return Math.random() * (max - min) + min;
+    };
+    var randomInt = function (min, max) {
+        return Math.floor(Math.random() * (max + 1 - min) + min);
+    };
+    //define makeCar function:
+    var Balloon = function (color, radius, x, y) {
+        var distance = random(0.2, 0.8);
+        var speed = (distance, distance * 2);
+        var offset = random(-1 * Math.PI, Math.PI);
+        var balloon;
+        this.initialize = function () {
+            var circle = new Path.Circle({
+                center: new Point(60, 60),
+                radius: radius,
+                fillColor: color
+            });
+
+            circle.segments[3].point.y += (radius / 3);
+            var miniCircle = new Path.Circle({
+                center: new Point(circle.segments[3].point.x, circle.segments[3].point.y + (radius / 20)),
+                radius: radius / 12,
+                fillColor: color
+            });
+            var tie = new Path.Circle({
+                center: new Point(circle.segments[3].point.x, circle.segments[3].point.y + (radius / 4)),
+                radius: radius / 5,
+                fillColor: color
+            });
+            tie.segments[3].remove();
+            /*for(var i = 0; i < balloon.segments.length; ++i) {
+                //clockwise, starting at 9 o'clock:
+                balloon.segments[i].selected = true;
+            }*/
+
+            // Group all of the shapes into a single layer
+            // (similar to how Photoshop and Illustrator work):
+            balloon = new Layer({
+                children: [circle, miniCircle, tie],
+                position: [x, y]
+            });
+            this.setInitialRotation();
+        };
+        this.setInitialRotation = function () {
+            var rotation = 0;
+            var increment = 0.025;
+            //var increment = 0.029;
+            for (var i = 0; i < Math.abs(offset); i += increment) {
+                rotation += Math.cos(speed * i) * distance;
+            }
+            if (offset < 0) {
+                rotation *= -1;
+            }
+            //rotation *= Math.PI;
+            balloon.rotate(rotation);
+        };
+
+        this.sway = function (event) {
+            // notes: inflection point happens at every 188 counts.
+            /*if (distance < 0.001) {
+                return;
+            }*/
+            var delta = Math.cos(speed * event.time + offset) * distance;
+            balloon.rotate(delta);
+            //distance /= 1.001; //eventually, move the balloons less and less
+        }
+
+        //this.setInitialRotation(l, offset);
+        this.getLayer = function () {
+            return balloon;
+        };
+
+        this.float = function (speed) {
+            balloon.position.y -= speed;
+            if (balloon.position.y < -200) {
+                balloon.position.y = canvasHeight + canvasHeight / 2;
+                balloon.position.x = random(50, canvasWidth - 50);
+                this.setColor(colors[randomInt(0, colors.length)]);
+            }
+        }
+        this.setColor = function (color) {
+            balloon.fillColor = color;
+        }
+        this.initialize();
+    };
+
+    for (var i = 0; i < numBalloons; i++) {
+        var color = colors[randomInt(0, 2)];
+        var radius = random(40, 70);
+        var x = random(0, canvasWidth);
+        var y = random(-200, canvasHeight + canvasHeight / 2);
+        balloons.push(new Balloon(color, radius, x, y));
+    }
+    view.draw();
+
+    view.onFrame = function (event) {
+        for (var i = 0; i < numBalloons; i++) {
+            balloons[i].sway(event);
+            balloons[i].float(1);
+        }
+    };
+</script>
